@@ -95,3 +95,8 @@ No. The plugin auto-syncs on save, but also offers a manual sync button for attr
 
 ### Why is the SKU showing with -en or -fr?
 Each translation gets a unique SKU (e.g. original-en) for WooCommerce compatibility. However, on the frontend, the original SKU is shown instead.
+
+
+// TODO:
+1. Sync variations from translated product back to prototype
+2. Empty the DOM before saving if variation has not image.
